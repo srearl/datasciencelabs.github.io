@@ -3,33 +3,18 @@ layout: page
 title: Homework
 ---
 
+Homework assignments and solutions will be add here throughout the semester. 
 
-## HW1
+[**Homework 1**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-1-us-murders/hw-1-us-murders.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Sunday, 9/17/2017 by 11:59pm
+* Solutions: [GitHub](https://github.com/datasciencelabs/2017/tree/master/homeworks/hw-1-us-murders), [HTML](html/hw-1-solutions.html)
 
-* HW1 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW1), [HTML](html/hw1-problems.html)
-* HW1 Solution: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW1), [HTML](html/hw1-solution.html)
+[**Homework 2**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-2-vaccines/hw-2-vaccines.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Sunday, 10/1/2017 by 11:59pm
+* Solutions: [GitHub](https://github.com/datasciencelabs/2017/tree/master/homeworks/hw-2-vaccines), [HTML](html/hw-2-solutions.html)
 
-## HW2
+[**Homework 3**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-3-casino/hw-3-casino.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Sunday, 10/8/2017 by 11:59pm
+* Solutions: [GitHub](https://github.com/datasciencelabs/2017/tree/master/homeworks/hw-3-casino), [HTML](html/hw-3-solutions.html)
 
-* HW2 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW2), [HTML](html/hw2-problems.html)
-* HW2 Solution: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW2), [HTML](html/HW2-solution.html)
+[**Homework 4**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-4-elections/hw-4-elections.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Sunday, 10/29/2017 by 11:59pm
+* Solutions: [GitHub](https://github.com/datasciencelabs/2017/tree/master/homeworks/hw-4-elections), [HTML](html/hw-4-solutions.html)
 
-## HW3
-
-* HW3 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW3), [HTML](html/hw3-problems.html)
-* HW3 Solution: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW3), [HTML](html/hw3-solution.html)
-
-## HW4
-
-* HW4 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW4), [HTML](html/hw4-problems.html)
-* HW4 Solution: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW4), [HTML](html/hw4-solution.html)
-
-## HW5
-
-* HW5 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW5), [HTML](html/hw5-problems.html)
-* HW5 Solution: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW5), [HTML](html/hw5-solution.html)
-
-## HW6
-
-* HW6 Assignment: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW6), [HTML](html/hw6-problems.html)
-* HW6 Solution: [GitHub](https://github.com/datasciencelabs/2016/tree/master/homework/HW6), [HTML](html/hw6-solution.html)
+[**Homework 5**](https://github.com/datasciencelabs/2017/blob/master/homeworks/hw-5-moneyball/hw-5-moneyball.Rmd): clone the repository that was created for you [here](https://github.com/datasciencelabs-students). Due Sunday, 11/12/2017 by 11:59pm
